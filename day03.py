@@ -13,7 +13,6 @@ for x_slope, y_slope in zip(x_slopes, y_slopes):
             trees += 1
         x += x_slope
     total *= trees
-    print(trees)
     trees = 0
 
 print(total)
