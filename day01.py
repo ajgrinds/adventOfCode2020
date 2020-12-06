@@ -1,5 +1,6 @@
-# Advent Of Code 2020 Day 5 Completion
+# Advent Of Code 2020 Day 1 Answer
 # Code by: Andrew Grindstaff
+# https://adventofcode.com/2020/day/1
 
 
 def main():
